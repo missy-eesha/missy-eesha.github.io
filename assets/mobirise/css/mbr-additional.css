@@ -1479,6 +1479,29 @@ section.lazy-placeholder:after {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
+.cid-rSEDLyfeKt {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rSEDLyfeKt .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rSEDLyfeKt .section-text {
+  padding: 2rem 0;
+}
+.cid-rSEDLyfeKt .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rSEDLyfeKt .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-rSEi3chwmd {
   padding-top: 30px;
   padding-bottom: 30px;
